@@ -1,9 +1,15 @@
 begin-git
 =========
 
-A ridiculously simple tutorial on getting started with git
+A ridiculously simple tutorial on getting started with git and github
 
 First, get a github account
+
+#Installation notes
+For SSH authentication: https://help.github.com/articles/working-with-ssh-key-passphrases
+
+###a guide using OpenSSH
+http://guides.beanstalkapp.com/version-control/git-on-windows.html
 
 Windows
 =
@@ -16,6 +22,7 @@ Install Git Bash from here: http://msysgit.github.io/
 
 Mac
 =
+Just download Xcode
 
 gh-pages
 =
